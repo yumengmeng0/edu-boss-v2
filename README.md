@@ -1,11 +1,12 @@
 # edu-boss
 
-!alt[./images/prview.png]
+![alt 页面](images/prview.png)
 
 # SSM 单体项目：拉勾教育后台管理系统
 
-对应的后端：SSM 单体项目：拉勾教育后台管理系统
+对应的后端：SSM 单体项目：拉勾教育管理系统后台
 https://github.com/yumengmeng92/lagou_edu_home_parent
+
 
 ```shell
 ## Project setup
